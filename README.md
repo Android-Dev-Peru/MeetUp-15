@@ -19,7 +19,7 @@ Organizadores del meetup:
 - [Eduardo Medina](https://github.com/emedinaa)
 - [José Cuentas Turpo](https://github.com/PibeDx)
 
-https://www.meetup.com/es-ES/Android-Dev-Peru/events/244458450/
+https://www.meetup.com/es-ES/Android-Dev-Peru/events/249542773/
 
 ## Sponsors
  - Everis
