@@ -11,10 +11,6 @@ Slide [URL](#)
 
 Slide [URL](#)
 
-- **Tema3**  por Persona3
-
-Slide [URL](#)
-
 ## Organización 
 [Android Dev Perú](https://github.com/Android-Dev-Peru)
 
