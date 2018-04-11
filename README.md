@@ -1,13 +1,13 @@
 # MeetUp-15
-Temas
+Tareas en segundo plano en Android Oreo y las nuevas restricciones - Detectar leaks de memoria con Leak Canary
 
 ## Charlas :
 
-- **Tema1**  por Persona1
+- **Tareas en segundo plano en Android Oreo y las nuevas restricciones**  por Jonathan Nolasco Barrientos
 
 Slide [URL](#)
 
-- **Tema2**  por Persona2
+- **Detectar leaks de memoria con Leak Canary**  por Manuel Perez Corrales
 
 Slide [URL](#)
 
@@ -20,13 +20,13 @@ Slide [URL](#)
 
 Organizadores del meetup:
 
-- [Organizador1](#)
-- [Organizador2](#)
+- [Eduardo Medina](https://github.com/emedinaa)
+- [José Cuentas Turpo](https://github.com/PibeDx)
 
 https://www.meetup.com/es-ES/Android-Dev-Peru/events/244458450/
 
 ## Sponsors
- - Sponsor1
+ - Everis
 
 ## Grupo en Facebook 
 [Android Dev Perú - Grupo](https://www.facebook.com/groups/androidpe/)
