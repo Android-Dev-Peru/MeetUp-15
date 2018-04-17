@@ -11,6 +11,10 @@ Slide [URL](#)
 
 Slide [URL](#)
 
+- **Introducción al NDK**  por Jorge Murillo
+
+Slide [URL](#)
+
 ## Organización 
 [Android Dev Perú](https://github.com/Android-Dev-Peru)
 
