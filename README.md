@@ -17,7 +17,11 @@ Tareas en segundo plano en Android Oreo y las nuevas restricciones - Detectar le
 
 - **Introducción al NDK**  por Jorge Murillo
 
-Slide [URL](#)
+ Slide [https://docs.google.com/presentation/d/18UabD-9EvkS-tQDQSfXbovyrWzB8B7G4gm1k3CTa4B0/edit?usp=sharing](https://docs.google.com/presentation/d/18UabD-9EvkS-tQDQSfXbovyrWzB8B7G4gm1k3CTa4B0/edit?usp=sharing)
+
+ Repo [https://github.com/murillocjr/android-meetup-opencv-cpp-netbeans](https://github.com/murillocjr/android-meetup-opencv-cpp-netbeans)
+ 
+ [https://github.com/murillocjr/android-meetup-ndk-area](https://github.com/murillocjr/android-meetup-ndk-area)
 
 ## Organización 
 [Android Dev Perú](https://github.com/Android-Dev-Peru)
