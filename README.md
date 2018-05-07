@@ -5,13 +5,15 @@ Tareas en segundo plano en Android Oreo y las nuevas restricciones - Detectar le
 
 - **Tareas en segundo plano en Android Oreo y las nuevas restricciones**  por Jonathan Nolasco Barrientos
 
-Slide [URL](#)
+ Slide [https://docs.google.com/presentation/d/1qUyejHQJJXhzeBpoZb4njL3HSnKPKX_a5mS4wEG5qso/edit?usp=sharing](https://docs.google.com/presentation/d/1qUyejHQJJXhzeBpoZb4njL3HSnKPKX_a5mS4wEG5qso/edit?usp=sharing)
+
+ Repo [https://github.com/jnolascob/android-job-scheduler](https://github.com/jnolascob/android-job-scheduler)
 
 - **Detectar leaks de memoria con Leak Canary**  por Manuel Perez Corrales
 
-Slide [https://docs.google.com/presentation/d/1iJBr1jJZOlcHsBbi7GyauoMX_T6qKcr2bk8xKOUagiM/edit?usp=sharing](https://docs.google.com/presentation/d/1iJBr1jJZOlcHsBbi7GyauoMX_T6qKcr2bk8xKOUagiM/edit?usp=sharing)
+ Slide [https://docs.google.com/presentation/d/1iJBr1jJZOlcHsBbi7GyauoMX_T6qKcr2bk8xKOUagiM/edit?usp=sharing](https://docs.google.com/presentation/d/1iJBr1jJZOlcHsBbi7GyauoMX_T6qKcr2bk8xKOUagiM/edit?usp=sharing)
 
-Repo [https://github.com/mperezcorrales/UsingLeakCanary](https://github.com/mperezcorrales/UsingLeakCanary)
+ Repo [https://github.com/mperezcorrales/UsingLeakCanary](https://github.com/mperezcorrales/UsingLeakCanary)
 
 - **Introducción al NDK**  por Jorge Murillo
 
