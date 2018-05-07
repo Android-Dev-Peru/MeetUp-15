@@ -1,5 +1,5 @@
 # MeetUp-15
-Tareas en segundo plano en Android Oreo y las nuevas restricciones - Detectar leaks de memoria con Leak Canary
+Tareas en segundo plano en Android Oreo y las nuevas restricciones - Detectar leaks de memoria con Leak Canary - Android NDK
 
 ## Charlas :
 
