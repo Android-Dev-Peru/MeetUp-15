@@ -9,7 +9,9 @@ Slide [URL](#)
 
 - **Detectar leaks de memoria con Leak Canary**  por Manuel Perez Corrales
 
-Slide [URL](#)
+Slide [https://docs.google.com/presentation/d/1iJBr1jJZOlcHsBbi7GyauoMX_T6qKcr2bk8xKOUagiM/edit?usp=sharing](https://docs.google.com/presentation/d/1iJBr1jJZOlcHsBbi7GyauoMX_T6qKcr2bk8xKOUagiM/edit?usp=sharing)
+
+Repo [https://github.com/mperezcorrales/UsingLeakCanary](https://github.com/mperezcorrales/UsingLeakCanary)
 
 - **Introducción al NDK**  por Jorge Murillo
 
